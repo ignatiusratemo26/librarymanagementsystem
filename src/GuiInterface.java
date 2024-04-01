@@ -39,7 +39,7 @@ public class GuiInterface extends JFrame {
     }
 
     private void processCommand(String command) {
-        // Implement logic to process commands
+        
     }
 
     public static void main(String[] args) {
